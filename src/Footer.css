@@ -1,0 +1,6 @@
+.hinhcau {
+    background: url('./images/hinhcau2.png') right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    mix-blend-mode: multiply;
+}
